@@ -1,1 +1,2 @@
-I wish to run a test
+I ran 3 tests:
+test1, test2, test3
