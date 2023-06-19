@@ -1,2 +1,4 @@
-I ran 3 tests:
+I ran 5 tests:
 test1, test2, test3
+Test 4 failed
+Test 5 Failed
